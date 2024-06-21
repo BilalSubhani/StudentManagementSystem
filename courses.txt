@@ -1,0 +1,8 @@
+ME101 Calculus                     Fall    3    1
+ME102 Linear Algebra               Spring  3    2
+EE215 Linear Circuit Analysis      Fall    4    3
+EE220 Physics                      Spring  4    4
+HS311 Islamiat                     Fall    3    5
+HS303 Communication skills         Spring  4    6
+CS550 Basic Computing              Fall    4    7
+CS250 Object oriented programming  Spring  4    8
